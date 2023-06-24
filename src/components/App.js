@@ -1,4 +1,5 @@
-import { useState, useEffect } from "react";
+import { useEffect } from "react";
+
 
 function App() {
   const [dogImageUrl, setDogImageUrl] = useState(null);
